@@ -1,0 +1,20 @@
+html,
+body {
+    background-color: #000;
+}
+#viewDiv {
+
+    height: 95%;
+    width: 95%;
+    position: relative;
+    padding-top: 70;
+    
+}
+
+#bodycontent {
+
+    height: auto;
+    width: auto;
+    position: fixed;
+    color: #000;
+}
